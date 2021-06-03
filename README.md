@@ -4,7 +4,7 @@ A travers ce TP, vous allez voir comment facilement usurper l'identité de quelq
 
 Disclaimer: à ne pas reproduire dans un cadre non-professionnel ;)
 
-------------------
+------------------  
 Cloner le repo git :
 `git clone https://github.com/anthony-rlld/tp-broken-authentication.git`  
 
@@ -13,7 +13,7 @@ Lancer le serveur php en local
 `php -S localhost:8080`  
 
 __Vous devrez utiliser ce serveur pour les deux exercices__   
-------------------
+------------------  
 ## Exercice 1 (14 points)
 
 Vous allez devoir mettre en place un attaque par force brute (similaire au Password spraying) pour récupérer le compte de votre collègue.  
