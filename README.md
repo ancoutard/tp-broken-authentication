@@ -8,7 +8,7 @@ Disclaimer: à ne pas reproduire dans un cadre non-professionnel ;)
 Cloner le repo git :
 `git clone https://github.com/anthony-rlld/tp-broken-authentication.git`  
 
-Lancer le serveur php en local
+Lancer le serveur php en local   
 `cd tp-broken-authentication`  
 `php -S localhost:8080`  
 
