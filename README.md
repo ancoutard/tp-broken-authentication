@@ -10,7 +10,7 @@ Cloner le repo git :
 
 Lancer le serveur php en local   
 `cd tp-broken-authentication`  
-`php -S localhost:8080`  
+`php -S localhost:8092`  (ou n'import quel autre port si celui est déjà pris)
 
 __Vous devrez utiliser ce serveur pour les deux exercices__   
 ------------------  
