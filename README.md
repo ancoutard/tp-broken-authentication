@@ -31,10 +31,10 @@ Tout d'abord, exécuter les lignes suivantes pour accéder aux logiciels de gén
 `cd cupp`    
 `python3 cupp.py -i`  
 
-Ensuite, rentrez les informations personnelles de votre collègues dans le logiciel  
-__Attention : ne pas mettre de majuscules aux noms/prénoms si l'information n'est pas disponible, cliquez sous ENTRER pour passer a la suite__   
+Ensuite, rentrez les informations personnelles de votre collègues dans le logiciel.   
+__Attention : ne pas mettre de majuscules aux noms/prénoms si l'information n'est pas disponible, cliquez sous ENTRER pour passer a la suite__      
 
-Répondez à non (N) aux 5 questions après avec rentré toutes les informations personnelles.
+Répondez à non (N) aux 5 questions après avec rentré toutes les informations personnelles.   
 Un fichier __nomDuCollègue.txt__ va être généré avec la liste de tous les potentiels mot de passe à la racine du logiciel.
 
 
