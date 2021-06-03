@@ -13,12 +13,8 @@ git clone https://github.com/anthony-rlld/tp-broken-authentication.git
 
 Lancer le serveur php en local   
 ```bash
-cd tp-broken-authentication
+cd tp-broken-authentication/sitesPhp
 ```  
-
-```bash
-cd sitesPhp
-```
 
 ```bash
 php -S localhost:8092 (ou n'importe quel autre port si celui est déjà pris)
