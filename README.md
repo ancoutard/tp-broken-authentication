@@ -61,7 +61,7 @@ Marc n'est pas complétement néophyte, il utilise des mots de passes assez long
 Génerez une liste de mot de passes possibles à l'aide de cupp pour Marc Martin.
 
 Pour lancer cupp :
-`python3 cupp.py` ou `./cupp.py` (si python est dans votre path)   
+`python3 cupp.py -i` ou `./cupp.py` (si python est dans votre path)   
 
 ### Question 2 (10 points)
 
