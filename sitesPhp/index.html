@@ -1,46 +1,16 @@
-<html>  
-<head>  
-    <title>PHP login system</title>  
-    <link rel = "stylesheet" type = "text/css" href = "style.css">   
-</head>  
-<body>  
-    <div id = "frm">  
-        <h1>Login</h1>  
-        <form name="f1" action = "register.php" onsubmit = "return validation()" method = "POST">  
-            <p>  
-                <label> UserName: </label>  
-                <input type = "text" id ="username" name  = "username" />  
-            </p>  
-            <p>  
-                <label> Password: </label>  
-                <input type = "text" id ="password" name  = "password" />  
-            </p>  
-            <p>     
-                <input type =  "submit" id = "btn" value = "Login" />  
-            </p>  
-        </form>  
-    </div>  
-    <script>  
-            function validation()  
-            {  
-                var id=document.f1.user.value;  
-                var ps=document.f1.pass.value;  
-                if(id.length=="" && ps.length=="") {  
-                    alert("User Name and Password fields are empty");  
-                    return false;  
-                }  
-                else  
-                {  
-                    if(id.length=="") {  
-                        alert("User Name is empty");  
-                        return false;  
-                    }   
-                    if (ps.length=="") {  
-                    alert("Password field is empty");  
-                    return false;  
-                    }  
-                }                             
-            }  
-        </script>  
-</body>     
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PHP login system</title>
+</head>
+<body>
+    <div style="display: flex; margin: auto; flex-direction: column; width: 100%; align-items: center">
+        <h1>PHP login system</h1>
+        <div style="display: flex; flex-direction: column">
+            <a href="auth.php" style="margin: 0.25rem">Partie Authentification</a>
+            <a href="session.php" style="margin: 0.25rem">Partie Session</a>
+        </div>
+    </div>
+</body>
 </html>
