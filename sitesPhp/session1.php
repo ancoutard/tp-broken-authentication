@@ -5,7 +5,7 @@
 
 <div style="display: flex; margin: auto; flex-direction: column; width: 100%; align-items: center">
     <h1>Level 1</h1>
-    <p>Retrouver l'id de session. Plusieurs solution sont possible</p>
+    <p>Retrouver l'id de session. Plusieurs solutions sont possibles</p>
     <form name="s1" action="session1.php" method="POST"
           style="display: flex; flex-direction: column">
         <input name="msg" placeholder="Votre message"/>
