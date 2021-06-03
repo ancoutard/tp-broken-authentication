@@ -15,6 +15,11 @@ Lancer le serveur php en local
 ```bash
 cd tp-broken-authentication
 ```  
+
+```bash
+cd sitesPhp
+```
+
 ```bash
 php -S localhost:8092 (ou n'importe quel autre port si celui est déjà pris)
 ```
