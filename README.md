@@ -3,7 +3,7 @@
 A travers ce TP, vous allez voir comment facilement usurper l'identité de quelqu'un grâce a ses informations personnelles ou bien grace à sa session.
 Faites votre compte-rendu dans un document texte que vous nous enverrez par mail.
 
-Disclaimer: à ne pas reproduire dans un cadre non-professionnel ;)
+Disclaimer: à ne pas reproduire dans un cadre non-professionnel 👿
 
 ------------------  
 Cloner le repo git :
