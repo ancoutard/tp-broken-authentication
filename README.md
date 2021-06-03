@@ -1,6 +1,7 @@
 # TP Broken Authentication
 
 A travers ce TP, vous allez voir comment facilement usurper l'identité de quelqu'un grâce a ses informations personnelles ou bien grace à sa session.
+Faites votre compte-rendu dans un document texte que vous nous enverrez par mail.
 
 Disclaimer: à ne pas reproduire dans un cadre non-professionnel ;)
 
@@ -90,5 +91,5 @@ Pensez à remplacer `localhost` par `127.0.0.1`, et n'oubliez pas de préciser l
 --------------------------------
 ## Exercice 2 (6 points)
 Rendez-vous dans la partie session du site php mis à disposition.
-Votre but est trouvez deux manières différentes d'obtenir l'identifiant de session.
+Votre but est de trouvez deux manières différentes d'obtenir l'identifiant de session.
 Bonne chance ! 👊
