@@ -55,6 +55,7 @@ Dans la réalité on peut chercher sur internet, dans notre cas, marc est un per
 
 Marc (prénom) Martin (nom) travaille chez toyota, il est né le 04/06/1980 et à eu un enfant qui s'appelle Thomas avec sa femme laura.
 Marc n'est pas complétement néophyte, il utilise des mots de passes assez long, avec bien souvent des majuscules, des chiffres ou encore des caractères spéciaux.
+Rappelez vous que vous connaisez son adresse mail : marc.martin@gmail.com
 
 ### Question 1 (4 points)
 
@@ -82,7 +83,7 @@ cd thc-hydra
 make
 ```
 
-Tapez maintenant `hydra` pour le lancer, regardez les arguments nécessaires pour lancer une attaque bruteforce par dictionnaire sur un formulaire HTTP en POST.
+Tapez maintenant `./hydra` pour le lancer, regardez les arguments nécessaires pour lancer une attaque bruteforce par dictionnaire sur un formulaire HTTP en POST.
 Regardez à quoi ressemble le site php mis à disposition, sur quelle page il amène lors d'une erreur, quelle est la requête qu'il fait pour essayer de se connecter.
 
 Vous pouvez cherchez des exemples sur internet si cela ne marche pas, on en trouve pas mal.
