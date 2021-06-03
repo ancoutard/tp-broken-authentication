@@ -5,13 +5,21 @@ A travers ce TP, vous allez voir comment facilement usurper l'identité de quelq
 Disclaimer: à ne pas reproduire dans un cadre non-professionnel ;)
 
 ------------------
-## Exercice 1
+Cloner le repo git :
+`git clone https://github.com/anthony-rlld/tp-broken-authentication.git`  
 
-Vous allez devoir mettre en place un attaque par force brute (similaire au Paswword spraying) pour récupérer le compte Netflix de votre collègue.  
+Lancer le serveur php en local
+`cd tp-broken-authentication`  
+`php -S localhost:8080`  
+
+__Vous devrez utiliser ce serveur pour les deux exercices__   
+------------------
+## Exercice 1 (14 points)
+
+Vous allez devoir mettre en place un attaque par force brute (similaire au Password spraying) pour récupérer le compte de votre collègue.  
 Comme c'est votre collègue, vous connaissez beaucoup d'informations personnelles susceptible d'etre dans son mot de passe.  
 
-Voici le profil de votre collègue:  
-
+Vous pouvez trouver le profil de votre collegue dans le fichier __marcMartin.pdf__, a la racine du dépôt git.
 
 ### Prerequis: 
 
@@ -37,7 +45,10 @@ Si l'information n'est pas disponible cliquez sous ENTRER pour passer a la suite
 Répondez à non (N) aux 5 questions après avec rentré toutes les informations personnelles car la liste de mot de passe sera deja assez longue.  
 Un fichier __nomDuCollègue.txt__ va être généré avec la liste de tous les potentiels mot de passe à la racine du logiciel.  
 
-Une fois la liste de mot de passe créée, cloner le repo git :
-`git clone https://github.com/anthony-rlld/tp-broken-authentication.git`
+  
+Une fois votre liste créée, vous devrez télécharger le logciel __Hydra__ permettant l'automatisation des tests pour l'ataaque par force brute.
 
 
+
+--------------------------------
+## Exercice 2 (6 points)
