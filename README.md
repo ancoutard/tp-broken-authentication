@@ -1,7 +1,6 @@
 # TP Broken Authentication
 
 A travers ce TP, vous allez voir comment facilement usurper l'identité de quelqu'un grâce a ses informations personnelles ou bien grace à sa session.
-Ceci va être possible du fait que vous n'allez pas travailler sur un formulaire qui est extrêmement protégé.
 
 Disclaimer: à ne pas reproduire dans un cadre non-professionnel ;)
 
