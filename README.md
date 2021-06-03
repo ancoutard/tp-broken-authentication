@@ -80,10 +80,10 @@ cd thc-hydra
 ./configure
 ```
 ```bash
-make
+sudo make install
 ```
 
-Tapez maintenant `./hydra` pour le lancer, regardez les arguments nécessaires pour lancer une attaque bruteforce par dictionnaire sur un formulaire HTTP en POST.
+Tapez maintenant `hydra` pour le lancer, regardez les arguments nécessaires pour lancer une attaque bruteforce par dictionnaire sur un formulaire HTTP en POST.
 Regardez à quoi ressemble le site php mis à disposition, sur quelle page il amène lors d'une erreur, quelle est la requête qu'il fait pour essayer de se connecter.
 
 Vous pouvez cherchez des exemples sur internet si cela ne marche pas, on en trouve pas mal.
