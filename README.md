@@ -34,7 +34,7 @@ Ensuite, rentrez les informations personnelles de votre collègues dans le logic
 __Attention : ne pas mettre de majuscules aux noms/prénoms.   
 Si l'information n'est pas disponible cliquez sous ENTRER pour passer a la suite__      
 
-Répondez à non (N) aux 5 questions après avec rentré toutes les informations personnelles.   
+Répondez à non (N) aux 5 questions après avec rentré toutes les informations personnelles car la liste de mot de passe sera deja assez longue.  
 Un fichier __nomDuCollègue.txt__ va être généré avec la liste de tous les potentiels mot de passe à la racine du logiciel.
 
 
