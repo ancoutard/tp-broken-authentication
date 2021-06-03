@@ -16,7 +16,7 @@ Lancer le serveur php en local
 cd tp-broken-authentication
 ```  
 ```bash
-php -S localhost:8092 (ou n'import quel autre port si celui est déjà pris)
+php -S localhost:8092 (ou n'importe quel autre port si celui est déjà pris)
 ```
 
 __Vous devrez utiliser ce serveur pour les deux exercices__   
